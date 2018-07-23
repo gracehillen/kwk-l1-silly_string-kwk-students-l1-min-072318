@@ -1,7 +1,11 @@
 your_favorite_word = "doggie".upcase
 
-
 puts "My favorite word is #{your_favorite_word}"
+
+favorite_in_all_caps = your_favorite_word.upcase
+puts "My favorite word is #{your_favorite_word}"
+
+
 puts "IM NOT SHOUTING".downcase
 puts "supercalifragilisticexpialidocious".length
 puts "wow" + "mom"
