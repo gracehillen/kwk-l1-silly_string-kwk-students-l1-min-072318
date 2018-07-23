@@ -1,4 +1,4 @@
-your_favorite_word = "doggie".upcase
+your_favorite_word = "doggie"
 
 puts "My favorite word is #{your_favorite_word}"
 
