@@ -1,1 +1,1 @@
-puts "doggie".capitalize
+puts "doggie".upcase
