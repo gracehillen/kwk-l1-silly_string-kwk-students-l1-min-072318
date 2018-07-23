@@ -1,7 +1,7 @@
-your_favorite_word = "doggie"
+your_favorite_word = "doggie".upcase
 
 
-puts "My favorite word is #{your_favorite_word}.upcase."
+puts "My favorite word is #{your_favorite_word}"
 puts "IM NOT SHOUTING".downcase
 puts "supercalifragilisticexpialidocious".length
 puts "wow" + "mom"
