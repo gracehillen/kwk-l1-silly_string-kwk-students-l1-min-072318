@@ -7,6 +7,7 @@ puts "My favorite word is #{favorite_word_in_all_caps}"
 
 phrase = "IM NOT SHOUTING"
 puts "IM NOT SHOUTING".downcase
+
 puts "supercalifragilisticexpialidocious".length
 puts "wow" + "mom"
 puts "i really like programming".capitalize
